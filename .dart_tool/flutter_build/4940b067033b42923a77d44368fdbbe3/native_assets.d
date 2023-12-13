@@ -1,0 +1,1 @@
+ /Users/kevinhernandez/Downloads/handyman_mainfile_sourcecode/Mobile\ app/user\ app/latest/handyman_user_flutter/.dart_tool/flutter_build/4940b067033b42923a77d44368fdbbe3/native_assets.yaml: 

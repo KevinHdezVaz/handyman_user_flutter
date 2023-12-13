@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120172449523",
+    "project_id": "appempleos-6dbde",
+    "storage_bucket": "appempleos-6dbde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120172449523:android:3b0b5ac7846b46d9cb7186",
+        "android_client_info": {
+          "package_name": "com.app.developx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSAR33OdyrgAagnR65EtiCyabbs9q8rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
